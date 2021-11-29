@@ -35,3 +35,5 @@ btn[2].addEventListener("click", () =>{
 btn[3].addEventListener("click", () =>{
     clickHandler("/")
 })
+
+// Create an app which has two input fields and four buttons as +, -, *, /. You have to perform the calculation according to the button clicked and then show the output. Also make a single function for the calculation.
